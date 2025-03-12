@@ -7,6 +7,8 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm single
 
+[Linkedin](www.linkedin.com/in/raghavender-reddy-sripathi-262b00203)
+
 ## Python
 [pygame](https://github.com/raghureddy-sripathi/pygame)
 
