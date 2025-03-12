@@ -14,7 +14,7 @@
 
 
 ## Python
-[pygame](https://img.icons8.com/?size=100&id=pIJdjOoL6KfU&format=png&color=000000)(https://github.com/raghureddy-sripathi/pygame)
+[![pygame](https://img.icons8.com/?size=100&id=pIJdjOoL6KfU&format=png&color=000000)](https://github.com/raghureddy-sripathi/pygame)
 
 <!--
 **raghureddy-sripathi/raghureddy-sripathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
