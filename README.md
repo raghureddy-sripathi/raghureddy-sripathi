@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 - 👋 Hi, I’m @raghureddy-sripathi
+- 🔭 👋 Hi, I’m @raghureddy-sripathi
 - 👀 I’m interested in you, just kidding learning new things and technology.
 - 🌱 I’m currently learning python, pygame and sql
 - 💞️ I’m looking to collaborate on gaming 
