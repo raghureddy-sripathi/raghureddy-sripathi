@@ -9,7 +9,7 @@
 
 
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/raghavender-reddy-sripathi-262b00203)
+[![LinkedIn](https://img.icons8.com/?size=100&id=64154&format=png&color=000000)](https://www.linkedin.com/in/raghavender-reddy-sripathi-262b00203)
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github&style=flat)](https://github.com/raghureddy-sripathi)
