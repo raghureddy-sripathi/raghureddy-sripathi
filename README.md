@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I'm single
 
 ## Python
-https://github.com/raghureddy-sripathi/pygame
+/pygame
 
 <!--
 **raghureddy-sripathi/raghureddy-sripathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
