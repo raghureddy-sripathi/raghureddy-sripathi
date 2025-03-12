@@ -7,9 +7,9 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm single
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat)](www.linkedin.com/in/raghavender-reddy-sripathi-262b00203)
+
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat)](www.linkedin.com/in/raghavender-reddy-sripathi-262b00203)
+[LinkedIn](www.linkedin.com/in/raghavender-reddy-sripathi-262b00203)
 
 ## Python
 [pygame](https://github.com/raghureddy-sripathi/pygame)
