@@ -14,8 +14,8 @@
 
 
 ## Languages
-[![Python](https://img.icons8.com/?size=100&id=pIJdjOoL6KfU&format=png&color=000000)]
-[![Sql](https://img.icons8.com/?size=100&id=Lk9yC4HS5r3p&format=png&color=000000)
+![Python](https://img.icons8.com/?size=100&id=pIJdjOoL6KfU&format=png&color=000000)
+![Sql](https://img.icons8.com/?size=100&id=Lk9yC4HS5r3p&format=png&color=000000)
 
 <!--
 **raghureddy-sripathi/raghureddy-sripathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
