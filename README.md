@@ -14,7 +14,7 @@
 
 
 ## Languages & Tools
-[![Python][Python](https://img.icons8.com/?size=100&id=pIJdjOoL6KfU&format=png&color=000000)
+[![Python](https://img.icons8.com/?size=100&id=pIJdjOoL6KfU&format=png&color=000000)python
 ![Java](https://img.icons8.com/?size=100&id=WbhlkucPF3tZ&format=png&color=000000)
 ![Sql](https://img.icons8.com/?size=100&id=Lk9yC4HS5r3p&format=png&color=000000)
 ![Apache spark](https://img.icons8.com/?size=100&id=0cRqPqlItA0E&format=png&color=000000)
