@@ -13,10 +13,13 @@
 [![GitHub](https://img.icons8.com/?size=100&id=118557&format=png&color=000000)](https://github.com/raghureddy-sripathi)
 
 
-## Languages
+## Languages & Tools
 ![Python](https://img.icons8.com/?size=100&id=pIJdjOoL6KfU&format=png&color=000000)
+![Java](https://img.icons8.com/?size=100&id=WbhlkucPF3tZ&format=png&color=000000)
 ![Sql](https://img.icons8.com/?size=100&id=Lk9yC4HS5r3p&format=png&color=000000)
-
+![Apache spark](https://img.icons8.com/?size=100&id=0cRqPqlItA0E&format=png&color=000000)
+![Machine Learning](https://img.icons8.com/?size=100&id=fTkqveCX0blI&format=png&color=000000)
+![Docker](https://img.icons8.com/?size=100&id=LdUzF8b5sz2R&format=png&color=000000)
 <!--
 **raghureddy-sripathi/raghureddy-sripathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
